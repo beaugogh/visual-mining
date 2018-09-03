@@ -1,0 +1,5 @@
+data_directory:data/example.arff
+value_index:6
+which_algo:v
+alpha:0.05
+min_num_instances:30
