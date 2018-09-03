@@ -1,0 +1,159 @@
+@charset "utf-8";
+
+h4 {
+  margin-top: 25px;
+}
+.row {
+  margin-bottom: 10px;
+}
+.row .row {
+  margin-top: 5px;
+  margin-bottom: 0;
+  margin-left: 5em;
+  padding-left: 1em;
+  margin-right: auto;
+}
+[class*="col-"] {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+span {
+    font-size: 12px;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.15em;
+    margin-bottom: 0.15em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 0.5;
+    border-color: #C8C8C8;
+    opacity: 0.2;
+}
+
+.hull path{
+  fill: lightsteelblue;
+  fill-opacity: 0.3;
+}
+
+.node circle{
+  fill-opacity: 0.95;
+  stroke-opacity: 0.95;
+}
+
+.link line{
+  fill-opacity: 0.8;
+  stroke-opacity: 0.9;
+}
+
+/* for lasso */
+.lasso path {
+  stroke: rgb(80,80,80);
+  stroke-width:2px;
+}
+
+.lasso .drawn {
+  fill-opacity:.05 ;
+}
+
+.lasso .loop_close {
+  fill:none;
+  stroke-dasharray: 4,4;
+}
+
+.lasso .origin {
+  fill:#A80000;
+  fill-opacity:.6;
+}
+
+.not_possible {
+  fill:rgb(200,200,200);
+}
+
+.possible {
+  fill:#EC888C;
+}
+
+.typeahead,
+.tt-query,
+.tt-hint {
+  width: 100%;
+  height: 30px;
+  padding: 0px 12px;
+  font-size: 16px;
+  line-height: 30px;
+  border: 2px solid #ccc;
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+          border-radius: 8px;
+  outline: none;
+}
+
+.typeahead {
+  /*color ok*/
+  background-color: #fff;
+}
+
+.typeahead:focus {
+  border: 2px solid #0097cf;
+}
+
+.tt-query {
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+.tt-hint {
+  /*color ok*/
+  color: #999;
+}
+
+.tt-dropdown-menu {
+  width: 422px;
+  margin-top: 12px;
+  padding: 8px 0;
+  background-color: #fff; /*color ok*/
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+          border-radius: 8px;
+  -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+     -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+          box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.tt-suggestion {
+  padding: 3px 5px;
+  font-size: 15px;
+  line-height: 20px;
+  background-color: white;
+}
+
+.tt-suggestion.tt-cursor {
+  color: #fff;
+  background-color: #0097cf;/*color blue, ok*/
+
+}
+
+.tt-suggestion p {
+  margin: 0;
+}
+
+.drop-zone {
+  color: grey;
+  border-style: dashed;
+  border-color: grey;
+  line-height: 100px;
+  /*width: 60px;*/
+  height: 100px;
+  font-family: "Verdana";
+  font-size: 23px;
+  text-align: center;
+  /*box-shadow:0px 0px 30px 3px steelblue;*/
+  /*background-color: Bisque;*/
+}

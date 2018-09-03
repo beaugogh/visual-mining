@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>cells</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- jquery -->
+  <script src="lib/jquery.min.js"></script>
+  <script src="lib/jquery-ui.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/jquery-ui.css"/>
+
+  <!-- bootstrap -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <script src="lib/bootstrap.min.js"></script>
+
+  <!-- context menu -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="css/nu-context-menu.css"/>
+  <script src="lib/jquery.nu-context-menu.js"></script>
+
+  <!-- index.css -->
+  <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body id="body">
+
+<div class="container" style="width:99%;"> 
+    <div class="row">
+      <!-- <div class="col-md-2" id="div_filter"></div> -->
+      <!-- <div class="container" id="div_filter"></div> -->
+      <div id="div_filter">
+        <label id="reset_anchor"> &nbsp;</label>
+        <label id="shrink_anchor"> &nbsp;</label>
+        <label id="expand_anchor"> &nbsp;</label>
+        <label id="auto_expansion_anchor"> &nbsp;</label>
+        <label id="fixed_header_anchor"> &nbsp;</label>
+        <!-- <label id="color_coding_anchor"> &nbsp;</label> -->
+      </div>
+    </div>
+    <div class="row">
+      <!-- <div class="col-md-10" id="div_vis"></div> -->
+      <!-- <div class="container" id="div_vis"></div> -->
+      <div id="div_vis"></div>
+    </div>
+</div>
+
+<script src="lib/d3.v3.min.js"></script>
+<script src="js/cells.js"></script>
+<script src="js/cells.control.js"></script>
+
+
+<script>
+$(document).ready(function() {
+    //posts_att_horizontal, posts_att_vertical, chats_pos_vertical, example, chats_sen_horizontal, posts_pos_vertical
+    var data_path = 'data/chats_pos_vertical.tsv';//
+    d3.tsv(data_path, function(error, data) {
+      if(error) throw error;
+      cells.init(data);
+    });
+});
+</script>
+
+</body>
+</html>

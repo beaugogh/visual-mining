@@ -1,0 +1,45 @@
+comparison_attribute	comparison_left	comparison_sign	comparison_right	comparison_p	gender	age	relationship	privacy
+age	13-16	<	37-40	0.0	_	_	_	CUSTOM
+age	17-20	>	29-32	0.0	_	_	_	_
+age	21-24	<	17-20	0.0	_	_	_	ALL_FRIENDS
+age	21-24	<	25-28	0.0	_	_	_	ALL_FRIENDS
+age	21-24	<	25-28	0.0	_	_	_	_
+age	21-24	<	29-32	0.0	_	_	_	ALL_FRIENDS
+age	21-24	<	29-32	0.0	_	_	_	_
+age	21-24	<	41-50	0.0	_	_	_	_
+age	25-28	<	29-32	0.0	female	_	_	FRIENDS_OF_FRIENDS
+age	25-28	>	17-20	0.0	_	_	_	ALL_FRIENDS
+age	25-28	>	29-32	0.0	male	_	_	_
+age	25-28	>	29-32	0.0	_	_	_	_
+age	33-36	<	25-28	0.0	_	_	_	_
+age	41-50	<	13-16	0.0	male	_	_	FRIENDS_OF_FRIENDS
+age	41-50	<	13-16	0.0	_	_	_	CUSTOM
+age	41-50	<	13-16	0.0	_	_	_	FRIENDS_OF_FRIENDS
+age	41-50	<	37-40	0.0	female	_	_	CUSTOM
+age	41-50	<	37-40	0.0	_	_	_	CUSTOM
+gender	female	<	male	0.0	_	_	_	_
+gender	female	<	male	0.0	_	_	_	ALL_FRIENDS
+gender	female	<	male	0.0	_	21-24	_	_
+gender	female	<	male	0.0	_	_	In a relationship	_
+gender	female	>	male	0.0	_	_	_	EVERYONE
+privacy	ALL_FRIENDS	<	CUSTOM	0.0	female	_	_	_
+privacy	ALL_FRIENDS	<	EVERYONE	0.0	male	61-80	_	_
+privacy	ALL_FRIENDS	<	EVERYONE	0.0	_	_	In a relationship	_
+privacy	ALL_FRIENDS	<	EVERYONE	0.0	_	61-80	_	_
+privacy	CUSTOM	<	EVERYONE	0.0	male	_	_	_
+privacy	CUSTOM	<	EVERYONE	0.0	_	_	_	_
+privacy	CUSTOM	>	EVERYONE	8.225884530075282E-6	_	_	Widowed	_
+privacy	FRIENDS_OF_FRIENDS	<	ALL_FRIENDS	0.0	male	_	_	_
+privacy	FRIENDS_OF_FRIENDS	<	CUSTOM	0.0	_	41-50	_	_
+privacy	FRIENDS_OF_FRIENDS	<	CUSTOM	0.0	_	_	_	_
+privacy	FRIENDS_OF_FRIENDS	<	CUSTOM	0.0	_	13-16	_	_
+privacy	FRIENDS_OF_FRIENDS	>	ALL_FRIENDS	0.0	female	_	_	_
+relationship	In a relationship	<	Engaged	0.0	_	_	_	_
+relationship	Married	<	In a relationship	0.0	male	_	_	_
+relationship	Married	<	In a relationship	0.0	_	25-28	_	FRIENDS_OF_FRIENDS
+relationship	Single	<	Engaged	0.0	_	_	_	_
+relationship	Single	<	In a relationship	0.0	male	_	_	_
+relationship	Single	<	In a relationship	0.0	female	_	_	_
+relationship	Single	<	In a relationship	0.0	_	_	_	_
+relationship	Single	>	Married	0.0	male	_	_	_
+relationship	Single	>	Married	0.0	_	_	_	ALL_FRIENDS

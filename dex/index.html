@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>d-explorer</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- jquery -->
+  <script src="lib/jquery.min.js"></script>
+  <script src="lib/jquery-ui.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/jquery-ui.css"/>
+
+  <!-- bootstrap -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <script src="lib/bootstrap.min.js"></script>
+
+  <!-- index.css -->
+  <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+
+
+<div class="container" style="width:100%;"> 
+    <div class="row">
+      <div class="col-md-10" id="div_vis"></div>
+      <div class="col-md-2" id="div_control"></div>
+    </div>
+</div>
+
+<script src="lib/d3.v3.min.js"></script>
+<script src="js/dex.js"></script>
+<script src="js/dex.util.js"></script>
+<script src="js/dex.control.js"></script>
+
+
+<script>
+$(document).ready(function() {
+    dex.init("data/dd_th2.6.csv");
+});
+</script>
+
+</body>
+</html>

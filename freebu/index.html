@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>freebu</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- jquery -->
+  <script src="lib/jquery.min.js"></script>
+  <script src="lib/jquery-ui.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/jquery-ui.css"/>
+
+  <!-- bootstrap -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <script src="lib/bootstrap.min.js"></script>
+
+  <!-- jquery tree plugin -->
+  <script src="lib/jquery.tree.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/jquery.tree.css" />
+
+  <!-- bootstrap toggle button -->
+  <link href="css/bootstrap-toggle.min.css" rel="stylesheet">
+  <script src="lib/bootstrap-toggle.min.js"></script>
+  <!-- bootstrap typeahead -->
+  <script src="lib/typeahead.bundle.js"></script>
+  <script src="lib/bloodhound.js"></script>
+  <!-- index.css -->
+  <link href="css/index.css" rel="stylesheet">
+  <!-- d3.tip.css -->
+  <link href="css/d3.tip.css" rel="stylesheet">
+  <!-- for exporting lists -->
+  <script src="lib/jszip.min.js"></script>
+  <script src="lib/FileSaver.js"></script>
+</head>
+
+<body>
+<!-- container -->
+<div class="container" id="div-control">
+  <!-- <h3>FreeBu</h3> -->
+  <!-- <hr> -->
+  <br>
+  <div class="row" id="div-control-row">
+    <div class="btn-group" data-toggle="buttons">
+      <label class="btn btn-default active" id="networkV">
+        <input type="radio" id="networkVradio"/> Network View
+      </label> 
+      <label class="btn btn-default" id="circleV">
+        <input type="radio" id="circleVradio"/> Hierarchy View
+      </label> 
+      <label class="btn btn-default" id="rankV">
+        <input type="radio" id="rankVradio" /> Grid View
+      </label> 
+    </div>
+
+    <button type="button" class="btn btn-warning" id="btn-reset">Reset</button>
+    <input type="checkbox" data-toggle="toggle" data-on="lasso on" data-off="lasso off" id="toggle-lasso">
+    <input type="checkbox" data-toggle="toggle" data-on="show labels" data-off="hide labels" id="toggle-label">
+    <label id="toggle-run-label"> &nbsp;</label>
+    <label id="toggle-collapse-label"> &nbsp;</label>
+    <label id="toggle-confine-label"> &nbsp;</label>
+  </div>
+
+  <!-- <div class="col-md-10" id="div-vis"></div>
+  <div class="col-md-2" id="div-filter"></div> -->
+</div> 
+<!-- container -->
+
+<div class="container" style="width:100%;"> 
+    <div class="row">
+      <div class="col-md-10" id="div-vis"></div>
+      <div class="col-md-2" id="div-filter"></div>
+    </div>
+</div>
+
+<br>
+<div id="drop_zone" class="drop-zone"></div>
+<br>
+
+
+
+<script src="lib/d3.v3.min.js"></script>
+<script src="lib/d3.tip.js"></script>
+<script src="lib/lasso.js"></script>
+<script src="js/freebu.js"></script>
+<script src="js/freebu.util.js"></script>
+<script src="js/freebu.zoom.js"></script>
+<script src="js/freebu.force.js"></script>
+<script src="js/freebu.lasso.js"></script>
+<script src="js/freebu.control.js"></script>
+<script src="js/freebu.filter.js"></script>
+<script src="js/freebu.rank.js"></script>
+<script src="js/freebu.hierarchy.js"></script>
+<script src="js/freebu.circles.js"></script>
+<script>
+$(document).ready(function() {
+  var egoid="anonm_1249696533";
+  freebu.init("data/"+egoid+".json", "networkV");
+  freebu.circles.load_hierarchy("data/hi_"+egoid+".json");
+});
+</script>
+
+</body>
+</html>

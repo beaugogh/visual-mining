@@ -1,0 +1,67 @@
+comparison_attribute	comparison_left	comparison_sign	comparison_right	comparison_p	gender	age	relationship	privacy
+age	13-16	>	NOT 13-16	8.346447627879985E-4	_	_	_	_
+age	13-16	>	NOT 13-16	4.825091740601083E-4	_	_	_	2
+age	17-20	>	NOT 17-20	1.6594358947977765E-4	_	_	_	_
+age	17-20	>	NOT 17-20	1.0104194904317353E-6	_	_	_	2
+age	17-20	>	NOT 17-20	0.0017960874918622391	male	_	_	_
+age	21-24	<	NOT 21-24	1.562775836408558E-4	male	_	_	_
+age	21-24	<	NOT 21-24	0.0022163208438291814	_	_	In a relationship	_
+age	21-24	>	NOT 21-24	0.009018256249250702	female	_	_	3-4
+age	25-28	<	NOT 25-28	6.996156023243348E-4	female	_	_	2
+age	25-28	<	NOT 25-28	0.00808700263260572	female	_	_	_
+age	25-28	<	NOT 25-28	1.1960717706891589E-10	_	_	_	_
+age	25-28	<	NOT 25-28	4.0854831483922224E-13	_	_	_	2
+age	25-28	<	NOT 25-28	0.0018894303087710327	male	_	_	_
+age	29-32	<	NOT 29-32	1.6102389014794357E-7	_	_	_	_
+age	29-32	<	NOT 29-32	3.731134068628345E-8	_	_	_	2
+age	29-32	<	NOT 29-32	8.099419234649181E-4	female	_	_	2
+age	29-32	<	NOT 29-32	2.087401927071481E-4	male	_	_	_
+age	41-50	<	NOT 41-50	8.739832312270882E-4	_	_	_	_
+age	41-50	<	NOT 41-50	0.001439683634783546	_	_	_	2
+age	51-60	<	NOT 51-60	3.9734277188742455E-4	_	_	_	_
+gender	female	>	NOT female	5.369257239134365E-17	_	_	_	3-4
+gender	female	>	NOT female	1.679760202475393E-10	_	33-36	_	_
+gender	female	>	NOT female	2.5613340321475216E-35	_	17-20	_	_
+gender	female	>	NOT female	1.901114424103154E-11	_	_	In a relationship	_
+gender	female	>	NOT female	4.9176269961745555E-54	_	21-24	_	2
+gender	female	>	NOT female	3.993942845891089E-12	_	25-28	_	2
+gender	female	>	NOT female	6.464941001597444E-69	_	21-24	_	_
+gender	female	>	NOT female	0.009421958977473116	_	_	_	11-20
+gender	female	>	NOT female	1.967980548598671E-15	_	_	_	5-6
+gender	female	>	NOT female	1.7773778792181467E-10	_	29-32	_	_
+gender	female	>	NOT female	1.0559687922252124E-13	_	_	_	7-10
+gender	female	>	NOT female	5.445180063340479E-166	_	_	_	_
+gender	female	>	NOT female	2.28517698573625E-19	_	25-28	_	_
+gender	female	>	NOT female	4.882400547167922E-133	_	_	_	2
+gender	male	<	NOT male	1.9637292747014546E-13	_	_	_	7-10
+gender	male	<	NOT male	2.5613340321475216E-35	_	17-20	_	_
+gender	male	<	NOT male	1.901114424103154E-11	_	_	In a relationship	_
+gender	male	<	NOT male	4.5269448399274205E-68	_	21-24	_	_
+gender	male	<	NOT male	1.1409210863383406E-17	_	_	_	3-4
+gender	male	<	NOT male	2.796616677931625E-10	_	33-36	_	_
+gender	male	<	NOT male	3.066277462061799E-20	_	25-28	_	_
+gender	male	<	NOT male	1.7773778792181467E-10	_	29-32	_	_
+gender	male	<	NOT male	2.6021425099233734E-53	_	21-24	_	2
+gender	male	<	NOT male	0.007379609227946615	_	_	_	21-64
+gender	male	<	NOT male	4.586595708578282E-170	_	_	_	_
+gender	male	<	NOT male	3.295332696441927E-135	_	_	_	2
+gender	male	<	NOT male	6.330258480503843E-13	_	25-28	_	2
+gender	male	<	NOT male	3.2620646858990395E-15	_	_	_	5-6
+privacy	11-20	>	NOT 11-20	0.00524027666867577	_	_	_	_
+privacy	2	<	NOT 2	0.008002950129980094	female	25-28	_	_
+privacy	2	<	NOT 2	1.7959982277258887E-4	_	_	_	_
+privacy	2	<	NOT 2	0.0033253475720707894	female	_	_	_
+privacy	2	<	NOT 2	6.995211851335629E-4	female	21-24	_	_
+privacy	2	<	NOT 2	1.9802829160343882E-4	_	21-24	_	_
+privacy	2	<	NOT 2	1.1820872266953696E-5	_	25-28	_	_
+privacy	3-4	>	NOT 3-4	0.0023343804713018596	female	21-24	_	_
+privacy	3-4	>	NOT 3-4	1.0180162370119274E-4	_	29-32	_	_
+relationship	In a relationship	<	NOT In a relationship	4.0324505824373746E-4	_	21-24	_	2
+relationship	In a relationship	<	NOT In a relationship	2.409065059790305E-5	_	21-24	_	_
+relationship	In a relationship	<	NOT In a relationship	9.605598358058443E-4	_	_	_	_
+relationship	In a relationship	<	NOT In a relationship	1.2873498170662583E-4	_	17-20	_	_
+relationship	Married	<	NOT Married	2.9825439354477742E-15	_	_	_	_
+relationship	Single	<	NOT Single	0.006311346726132879	_	_	_	2
+relationship	Single	<	NOT Single	4.427889400935519E-4	_	_	_	_
+relationship	Single	<	NOT Single	2.0571750786022662E-4	female	_	_	2
+relationship	Single	<	NOT Single	6.0393788246201014E-5	female	_	_	_

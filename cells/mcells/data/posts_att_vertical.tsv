@@ -1,0 +1,297 @@
+comparison_attribute	comparison_left	comparison_sign	comparison_right	comparison_p	gender	age	relationship	privacy
+age	13-16	>	NOT 13-16	5.4725380206311E-13	female	_	_	_
+age	13-16	>	NOT 13-16	3.278259126893588E-11	_	_	_	ALL_FRIENDS
+age	13-16	>	NOT 13-16	3.76323354658456E-6	_	_	Single	ALL_FRIENDS
+age	13-16	>	NOT 13-16	2.8721141514101336E-4	male	_	_	ALL_FRIENDS
+age	13-16	>	NOT 13-16	1.9714781575858583E-5	_	_	Single	_
+age	17-20	>	NOT 17-20	5.239308336669663E-10	female	_	In a relationship	_
+age	17-20	>	NOT 17-20	9.004928772767503E-9	_	_	_	CUSTOM
+age	17-20	>	NOT 17-20	2.2995113135342E-4	female	_	In a relationship	EVERYONE
+age	17-20	>	NOT 17-20	2.145782743604148E-8	female	_	In a relationship	ALL_FRIENDS
+age	17-20	>	NOT 17-20	6.0543907445108024E-33	_	_	Single	ALL_FRIENDS
+age	17-20	>	NOT 17-20	0.003346095330065856	female	_	_	CUSTOM
+age	17-20	>	NOT 17-20	0.0	male	_	_	_
+age	17-20	>	NOT 17-20	0.004032493800251314	female	_	Single	ALL_FRIENDS
+age	17-20	>	NOT 17-20	0.004387559277874976	_	_	In a relationship	FRIENDS_OF_FRIENDS
+age	17-20	>	NOT 17-20	1.2275440431336408E-4	male	_	_	CUSTOM
+age	17-20	>	NOT 17-20	0.0	female	_	_	_
+age	17-20	>	NOT 17-20	1.4337031217799704E-23	male	_	Single	ALL_FRIENDS
+age	17-20	>	NOT 17-20	0.0	_	_	_	_
+age	17-20	>	NOT 17-20	8.472119742020149E-6	_	_	Single	FRIENDS_OF_FRIENDS
+age	17-20	>	NOT 17-20	0.0	male	_	_	ALL_FRIENDS
+age	17-20	>	NOT 17-20	7.879051319520575E-7	female	_	_	FRIENDS_OF_FRIENDS
+age	17-20	>	NOT 17-20	1.1844913531243295E-21	_	_	_	FRIENDS_OF_FRIENDS
+age	17-20	>	NOT 17-20	1.0049810497267587E-5	_	_	Single	CUSTOM
+age	21-24	<	NOT 21-24	3.914687799859029E-5	male	_	Single	ALL_FRIENDS
+age	21-24	<	NOT 21-24	2.3836999300683663E-11	female	_	Single	CUSTOM
+age	21-24	>	NOT 21-24	1.6568323881870496E-20	female	_	In a relationship	ALL_FRIENDS
+age	21-24	>	NOT 21-24	9.363581496951784E-4	_	_	Engaged	_
+age	21-24	>	NOT 21-24	1.2768197687271355E-8	_	_	_	FRIENDS_OF_FRIENDS
+age	21-24	>	NOT 21-24	1.0097957962613018E-10	_	_	Single	FRIENDS_OF_FRIENDS
+age	21-24	>	NOT 21-24	0.0031224719741360357	_	_	In a relationship	EVERYONE
+age	21-24	>	NOT 21-24	3.207240435421258E-4	female	_	_	FRIENDS_OF_FRIENDS
+age	21-24	>	NOT 21-24	0.0	male	_	_	_
+age	21-24	>	NOT 21-24	3.521050712189246E-38	female	_	In a relationship	_
+age	21-24	>	NOT 21-24	0.0031571843020812614	_	_	Engaged	ALL_FRIENDS
+age	21-24	>	NOT 21-24	0.0	female	_	_	_
+age	21-24	>	NOT 21-24	9.327919449833477E-57	_	_	Married	ALL_FRIENDS
+age	21-24	>	NOT 21-24	0.0	_	_	In a relationship	_
+age	21-24	>	NOT 21-24	0.0	male	_	_	ALL_FRIENDS
+age	21-24	>	NOT 21-24	2.7101701753166253E-62	_	_	Married	_
+age	21-24	>	NOT 21-24	2.275366147679774E-16	female	_	In a relationship	EVERYONE
+age	25-28	<	NOT 25-28	2.0041774041175516E-5	female	_	_	FRIENDS_OF_FRIENDS
+age	25-28	<	NOT 25-28	1.9074942787336308E-9	female	_	Single	_
+age	25-28	<	NOT 25-28	1.5065921556493086E-5	female	_	Single	ALL_FRIENDS
+age	25-28	<	NOT 25-28	5.199336353980303E-25	female	_	_	CUSTOM
+age	25-28	<	NOT 25-28	3.674526633032551E-17	male	_	_	CUSTOM
+age	25-28	<	NOT 25-28	0.0	_	_	Single	_
+age	25-28	<	NOT 25-28	3.500608919604489E-45	_	_	Single	CUSTOM
+age	25-28	<	NOT 25-28	0.0	male	_	_	ALL_FRIENDS
+age	25-28	>	NOT 25-28	0.0	_	_	_	EVERYONE
+age	25-28	>	NOT 25-28	5.415791040818679E-14	_	_	Engaged	_
+age	25-28	>	NOT 25-28	1.526139576077455E-6	_	_	Married	_
+age	25-28	>	NOT 25-28	8.088009886931493E-7	_	_	Engaged	ALL_FRIENDS
+age	25-28	>	NOT 25-28	3.436571508238261E-32	_	_	In a relationship	EVERYONE
+age	25-28	>	NOT 25-28	2.1666809772784997E-8	female	_	In a relationship	EVERYONE
+age	25-28	>	NOT 25-28	2.485493488190177E-5	_	_	Married	ALL_FRIENDS
+age	29-32	<	NOT 29-32	0.0	_	_	_	EVERYONE
+age	29-32	<	NOT 29-32	0.0	female	_	_	_
+age	29-32	<	NOT 29-32	0.0	_	_	_	_
+age	29-32	<	NOT 29-32	0.0	_	_	_	ALL_FRIENDS
+age	29-32	<	NOT 29-32	0.004888656753054229	female	_	_	CUSTOM
+age	29-32	<	NOT 29-32	0.005619408289254426	female	_	In a relationship	EVERYONE
+age	29-32	<	NOT 29-32	0.0012783578660684296	_	_	In a relationship	EVERYONE
+age	29-32	>	NOT 29-32	4.983871656774123E-12	male	_	_	CUSTOM
+age	29-32	>	NOT 29-32	5.959389963164162E-7	_	_	Married	_
+age	33-36	<	NOT 33-36	0.0	male	_	_	_
+age	33-36	<	NOT 33-36	0.005931709004644683	_	_	Married	_
+age	33-36	<	NOT 33-36	0.0	female	_	_	_
+age	33-36	<	NOT 33-36	1.2980258487181264E-8	_	_	Single	_
+age	33-36	<	NOT 33-36	0.0	_	_	_	_
+age	33-36	<	NOT 33-36	1.5173868967663997E-4	_	_	_	FRIENDS_OF_FRIENDS
+age	33-36	<	NOT 33-36	0.0	male	_	_	ALL_FRIENDS
+age	33-36	<	NOT 33-36	1.6219920673593527E-9	_	_	In a relationship	_
+age	33-36	>	NOT 33-36	0.007550347980025137	_	_	Single	ALL_FRIENDS
+age	33-36	>	NOT 33-36	2.755274677262437E-5	_	_	_	CUSTOM
+age	33-36	>	NOT 33-36	4.638505490795818E-12	female	_	_	CUSTOM
+age	37-40	<	NOT 37-40	0.0	male	_	_	_
+age	37-40	<	NOT 37-40	5.458282161049385E-6	_	_	Married	ALL_FRIENDS
+age	37-40	<	NOT 37-40	0.0	_	_	_	_
+age	37-40	<	NOT 37-40	4.342839115352557E-26	_	_	_	EVERYONE
+age	37-40	<	NOT 37-40	3.778952707666274E-12	male	_	_	ALL_FRIENDS
+age	41-50	<	NOT 41-50	1.2482738882525254E-6	_	_	Married	_
+age	41-50	<	NOT 41-50	0.0	_	_	_	ALL_FRIENDS
+age	41-50	<	NOT 41-50	4.3157414300118125E-6	_	_	_	CUSTOM
+age	41-50	>	NOT 41-50	0.00519976846496401	female	_	Married	ALL_FRIENDS
+age	41-50	>	NOT 41-50	8.900497266055953E-4	female	_	Married	_
+age	51-60	<	NOT 51-60	0.0	_	_	_	ALL_FRIENDS
+age	51-60	<	NOT 51-60	5.338312416161692E-34	_	_	Married	_
+age	51-60	<	NOT 51-60	2.711812625717387E-28	_	_	Married	ALL_FRIENDS
+age	51-60	<	NOT 51-60	1.3639283799097717E-58	male	_	_	ALL_FRIENDS
+age	51-60	<	NOT 51-60	1.0277657920602356E-61	female	_	_	_
+age	51-60	<	NOT 51-60	2.2326573340979824E-48	_	_	_	EVERYONE
+age	61-80	<	NOT 61-80	5.899790202705097E-25	_	_	_	_
+gender	female	>	NOT female	6.320763616084767E-34	_	25-28	Single	ALL_FRIENDS
+gender	female	>	NOT female	9.032564914863443E-6	_	_	In a relationship	FRIENDS_OF_FRIENDS
+gender	female	>	NOT female	1.3070068852429176E-151	_	_	Married	ALL_FRIENDS
+gender	female	>	NOT female	1.04674710728344E-138	_	21-24	Single	_
+gender	female	>	NOT female	0.0	_	21-24	_	_
+gender	female	>	NOT female	3.2677067739127024E-17	_	13-16	_	_
+gender	female	>	NOT female	3.7370561750323876E-22	_	33-36	_	CUSTOM
+gender	female	>	NOT female	2.0925895385553005E-42	_	41-50	_	ALL_FRIENDS
+gender	female	>	NOT female	9.956925678873322E-86	_	29-32	_	_
+gender	female	>	NOT female	0.003024605290405663	_	25-28	_	EVERYONE
+gender	female	>	NOT female	3.1959012119656514E-80	_	33-36	_	_
+gender	female	>	NOT female	4.651465514142223E-24	_	_	In a relationship	EVERYONE
+gender	female	>	NOT female	0.0	_	_	_	_
+gender	female	>	NOT female	0.0	_	_	In a relationship	_
+gender	female	>	NOT female	1.7081446588706567E-80	_	41-50	_	_
+gender	female	>	NOT female	4.8041663113397346E-32	_	17-20	_	EVERYONE
+gender	female	>	NOT female	2.5755084006583323E-20	_	_	Single	FRIENDS_OF_FRIENDS
+gender	female	>	NOT female	7.372564509599226E-76	_	17-20	_	_
+gender	female	>	NOT female	2.031615947836235E-85	_	_	Single	CUSTOM
+gender	female	>	NOT female	4.972758797075685E-47	_	41-50	Married	_
+gender	female	>	NOT female	0.0	_	_	_	EVERYONE
+gender	female	>	NOT female	2.4124862383370683E-11	_	_	Engaged	ALL_FRIENDS
+gender	female	>	NOT female	5.030601680723668E-4	_	17-20	Single	EVERYONE
+gender	female	>	NOT female	1.2932803655563033E-66	_	_	_	FRIENDS_OF_FRIENDS
+gender	female	>	NOT female	0.0	_	_	Single	_
+gender	female	>	NOT female	9.696595001466133E-48	_	33-36	_	ALL_FRIENDS
+gender	female	>	NOT female	2.5879436766385394E-18	_	21-24	_	FRIENDS_OF_FRIENDS
+gender	female	>	NOT female	1.5196875722549935E-9	_	51-60	_	ALL_FRIENDS
+gender	female	>	NOT female	1.5900224270169193E-41	_	25-28	Single	_
+gender	female	>	NOT female	0.005056404931158496	_	21-24	Single	FRIENDS_OF_FRIENDS
+gender	female	>	NOT female	1.407933447342979E-169	_	_	Married	_
+gender	female	>	NOT female	6.797151568976875E-33	_	41-50	Married	ALL_FRIENDS
+gender	female	>	NOT female	0.0	_	_	_	CUSTOM
+gender	female	>	NOT female	4.370100527222815E-48	_	_	Engaged	_
+gender	female	>	NOT female	2.5391696640029783E-15	_	17-20	Single	_
+gender	female	>	NOT female	6.956420192174887E-33	_	37-40	_	_
+gender	female	>	NOT female	5.45777418792006E-20	_	51-60	_	_
+gender	female	>	NOT female	9.30266230957232E-36	_	21-24	In a relationship	EVERYONE
+gender	male	<	NOT male	1.0422545277004232E-76	_	29-32	_	_
+gender	male	<	NOT male	3.7881256536448416E-32	_	17-20	_	EVERYONE
+gender	male	<	NOT male	6.320763616084767E-34	_	25-28	Single	ALL_FRIENDS
+gender	male	<	NOT male	1.6615637410351219E-84	_	_	Single	CUSTOM
+gender	male	<	NOT male	1.04674710728344E-138	_	21-24	Single	_
+gender	male	<	NOT male	1.1231825030395792E-86	_	41-50	_	_
+gender	male	<	NOT male	0.0	_	21-24	_	_
+gender	male	<	NOT male	3.2677067739127024E-17	_	13-16	_	_
+gender	male	<	NOT male	3.7370561750323876E-22	_	33-36	_	CUSTOM
+gender	male	<	NOT male	7.297877556752876E-6	_	_	In a relationship	FRIENDS_OF_FRIENDS
+gender	male	<	NOT male	9.708002834355028E-12	_	_	Engaged	ALL_FRIENDS
+gender	male	<	NOT male	1.1582686625306052E-171	_	_	Married	_
+gender	male	<	NOT male	1.1462232194750213E-15	_	17-20	Single	_
+gender	male	<	NOT male	0.0	_	_	_	ALL_FRIENDS
+gender	male	<	NOT male	0.0	_	_	In a relationship	_
+gender	male	<	NOT male	1.4970312377918456E-34	_	41-50	Married	ALL_FRIENDS
+gender	male	<	NOT male	4.261229725372118E-49	_	41-50	Married	_
+gender	male	<	NOT male	2.616948044330584E-46	_	41-50	_	ALL_FRIENDS
+gender	male	<	NOT male	0.0	_	_	_	EVERYONE
+gender	male	<	NOT male	2.521439643122325E-50	_	_	_	FRIENDS_OF_FRIENDS
+gender	male	<	NOT male	1.5273502555629777E-31	_	37-40	_	_
+gender	male	<	NOT male	2.2172096943229802E-76	_	17-20	_	_
+gender	male	<	NOT male	0.0	_	_	Single	_
+gender	male	<	NOT male	6.006258104167601E-41	_	33-36	_	ALL_FRIENDS
+gender	male	<	NOT male	0.007220511536352552	_	25-28	_	EVERYONE
+gender	male	<	NOT male	1.3186863598565335E-71	_	33-36	_	_
+gender	male	<	NOT male	1.5196875722549935E-9	_	51-60	_	ALL_FRIENDS
+gender	male	<	NOT male	2.1326272478844495E-18	_	21-24	_	FRIENDS_OF_FRIENDS
+gender	male	<	NOT male	1.5900224270169193E-41	_	25-28	Single	_
+gender	male	<	NOT male	3.254267607839803E-23	_	_	In a relationship	EVERYONE
+gender	male	<	NOT male	0.005056404931158496	_	21-24	Single	FRIENDS_OF_FRIENDS
+gender	male	<	NOT male	0.0	_	_	_	CUSTOM
+gender	male	<	NOT male	6.66505233985498E-49	_	_	Engaged	_
+gender	male	<	NOT male	3.9057678626415406E-20	_	_	Single	FRIENDS_OF_FRIENDS
+gender	male	<	NOT male	5.45777418792006E-20	_	51-60	_	_
+gender	male	<	NOT male	9.30266230957232E-36	_	21-24	In a relationship	EVERYONE
+gender	male	<	NOT male	8.184879399975345E-154	_	_	Married	ALL_FRIENDS
+gender	male	<	NOT male	4.3861728751064754E-4	_	17-20	Single	EVERYONE
+privacy	ALL_FRIENDS	<	NOT ALL_FRIENDS	0.005139819454674317	_	51-60	_	_
+privacy	ALL_FRIENDS	<	NOT ALL_FRIENDS	6.523640121115613E-7	_	21-24	Single	_
+privacy	ALL_FRIENDS	<	NOT ALL_FRIENDS	1.9672212917291804E-6	female	37-40	_	_
+privacy	ALL_FRIENDS	<	NOT ALL_FRIENDS	6.7624224689449E-4	male	33-36	_	_
+privacy	ALL_FRIENDS	<	NOT ALL_FRIENDS	0.0	_	_	Single	_
+privacy	ALL_FRIENDS	<	NOT ALL_FRIENDS	0.0036849432085458286	female	21-24	Single	_
+privacy	ALL_FRIENDS	<	NOT ALL_FRIENDS	2.225154080403162E-7	female	_	Engaged	_
+privacy	ALL_FRIENDS	<	NOT ALL_FRIENDS	3.1407756077869253E-4	female	51-60	_	_
+privacy	ALL_FRIENDS	<	NOT ALL_FRIENDS	8.443732446762382E-8	female	_	Single	_
+privacy	ALL_FRIENDS	<	NOT ALL_FRIENDS	0.0011207230447412638	female	17-20	_	_
+privacy	ALL_FRIENDS	<	NOT ALL_FRIENDS	8.334896222071997E-8	female	33-36	_	_
+privacy	ALL_FRIENDS	<	NOT ALL_FRIENDS	2.110215944646629E-9	_	_	It's complicated	_
+privacy	ALL_FRIENDS	<	NOT ALL_FRIENDS	7.435983463697445E-4	_	33-36	_	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	1.88849747544786E-7	_	_	Married	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	0.005683130118457993	_	25-28	Single	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	5.3025227213788585E-21	_	41-50	_	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	3.5183512022187446E-26	female	_	In a relationship	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	7.158690942839751E-4	_	_	Engaged	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	1.722432654775803E-5	_	13-16	_	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	2.2227563783885166E-5	female	41-50	_	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	0.0	_	25-28	_	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	0.0	_	_	_	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	4.592022044376874E-4	_	41-50	Married	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	0.0	_	_	In a relationship	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	3.4858601103471574E-13	female	_	Married	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	0.0011102426572206343	female	21-24	In a relationship	_
+privacy	ALL_FRIENDS	>	NOT ALL_FRIENDS	0.001283564469821739	_	33-36	In a relationship	_
+privacy	CUSTOM	<	NOT CUSTOM	0.0	male	_	_	_
+privacy	CUSTOM	<	NOT CUSTOM	7.295563707762985E-5	female	_	Engaged	_
+privacy	CUSTOM	<	NOT CUSTOM	1.486490854556444E-4	_	_	Engaged	_
+privacy	CUSTOM	<	NOT CUSTOM	2.0105368478623354E-5	female	21-24	_	_
+privacy	CUSTOM	<	NOT CUSTOM	2.561413561419341E-24	_	25-28	Single	_
+privacy	CUSTOM	<	NOT CUSTOM	0.0036168969824124696	_	21-24	Single	_
+privacy	CUSTOM	<	NOT CUSTOM	9.207668960787924E-9	female	_	In a relationship	_
+privacy	CUSTOM	<	NOT CUSTOM	4.079534540496934E-5	female	21-24	Single	_
+privacy	CUSTOM	>	NOT CUSTOM	2.3905065139192252E-17	female	33-36	_	_
+privacy	CUSTOM	>	NOT CUSTOM	4.4642999096114414E-7	_	37-40	_	_
+privacy	CUSTOM	>	NOT CUSTOM	0.0	female	_	_	_
+privacy	CUSTOM	>	NOT CUSTOM	0.0	_	_	_	_
+privacy	CUSTOM	>	NOT CUSTOM	2.0276071401765478E-7	female	_	Single	_
+privacy	CUSTOM	>	NOT CUSTOM	0.0013368337854717588	male	33-36	_	_
+privacy	CUSTOM	>	NOT CUSTOM	1.5829296532246767E-7	_	29-32	_	_
+privacy	CUSTOM	>	NOT CUSTOM	2.522721170009233E-22	_	33-36	_	_
+privacy	EVERYONE	<	NOT EVERYONE	2.824142035469737E-21	female	_	Married	_
+privacy	EVERYONE	<	NOT EVERYONE	3.973285178817322E-6	female	41-50	_	_
+privacy	EVERYONE	<	NOT EVERYONE	0.0	female	_	_	_
+privacy	EVERYONE	<	NOT EVERYONE	0.007838320431077673	_	33-36	_	_
+privacy	EVERYONE	<	NOT EVERYONE	0.0	_	21-24	_	_
+privacy	EVERYONE	<	NOT EVERYONE	2.557271908628907E-21	_	41-50	_	_
+privacy	EVERYONE	<	NOT EVERYONE	0.001247557473901739	female	21-24	In a relationship	_
+privacy	EVERYONE	<	NOT EVERYONE	1.7953752537735476E-18	female	_	In a relationship	_
+privacy	EVERYONE	<	NOT EVERYONE	3.8732461373400766E-4	_	41-50	Married	_
+privacy	EVERYONE	<	NOT EVERYONE	0.006993963350140024	_	17-20	_	_
+privacy	EVERYONE	<	NOT EVERYONE	2.406484057764118E-13	_	_	Married	_
+privacy	EVERYONE	<	NOT EVERYONE	0.004574534433258906	_	37-40	_	_
+privacy	EVERYONE	>	NOT EVERYONE	0.0	male	_	_	_
+privacy	EVERYONE	>	NOT EVERYONE	1.936431867847655E-5	female	21-24	Single	_
+privacy	EVERYONE	>	NOT EVERYONE	6.244046390033018E-4	female	51-60	_	_
+privacy	EVERYONE	>	NOT EVERYONE	6.606501978593418E-4	_	25-28	Single	_
+privacy	EVERYONE	>	NOT EVERYONE	4.003097544842317E-5	female	_	Engaged	_
+privacy	EVERYONE	>	NOT EVERYONE	7.598456062819659E-5	_	21-24	Single	_
+privacy	EVERYONE	>	NOT EVERYONE	8.55602158592427E-9	_	_	It's complicated	_
+privacy	EVERYONE	>	NOT EVERYONE	1.933273546354779E-4	female	21-24	_	_
+privacy	FRIENDS_OF_FRIENDS	<	NOT FRIENDS_OF_FRIENDS	1.078654928396274E-7	_	13-16	_	_
+privacy	FRIENDS_OF_FRIENDS	>	NOT FRIENDS_OF_FRIENDS	3.992768415250667E-5	_	_	In a relationship	_
+privacy	FRIENDS_OF_FRIENDS	>	NOT FRIENDS_OF_FRIENDS	5.671152844287487E-10	_	21-24	Single	_
+privacy	FRIENDS_OF_FRIENDS	>	NOT FRIENDS_OF_FRIENDS	0.0	female	_	_	_
+privacy	FRIENDS_OF_FRIENDS	>	NOT FRIENDS_OF_FRIENDS	2.07020251358615E-8	_	21-24	_	_
+privacy	FRIENDS_OF_FRIENDS	>	NOT FRIENDS_OF_FRIENDS	5.002334677886612E-6	female	21-24	_	_
+privacy	FRIENDS_OF_FRIENDS	>	NOT FRIENDS_OF_FRIENDS	2.7810765155085373E-4	female	17-20	_	_
+privacy	FRIENDS_OF_FRIENDS	>	NOT FRIENDS_OF_FRIENDS	0.007668123821203569	female	_	Married	_
+relationship	Engaged	>	NOT Engaged	1.2168075828813106E-25	_	25-28	_	_
+relationship	Engaged	>	NOT Engaged	0.0011925068763721037	_	21-24	_	_
+relationship	Engaged	>	NOT Engaged	0.0	female	_	_	_
+relationship	Engaged	>	NOT Engaged	4.5196958169464377E-4	_	_	_	EVERYONE
+relationship	Engaged	>	NOT Engaged	3.775115616587882E-17	_	25-28	_	ALL_FRIENDS
+relationship	In a relationship	<	NOT In a relationship	7.358155291703691E-4	female	_	_	CUSTOM
+relationship	In a relationship	<	NOT In a relationship	0.0	_	_	_	EVERYONE
+relationship	In a relationship	<	NOT In a relationship	2.959400053917617E-5	_	_	_	CUSTOM
+relationship	In a relationship	<	NOT In a relationship	4.18289433553087E-4	female	17-20	_	FRIENDS_OF_FRIENDS
+relationship	In a relationship	<	NOT In a relationship	3.411758566702357E-14	male	17-20	_	EVERYONE
+relationship	In a relationship	<	NOT In a relationship	1.8568265002926218E-13	_	17-20	_	EVERYONE
+relationship	In a relationship	<	NOT In a relationship	0.0	_	25-28	_	_
+relationship	In a relationship	>	NOT In a relationship	2.886653095572145E-12	_	25-28	_	EVERYONE
+relationship	In a relationship	>	NOT In a relationship	0.005233103826802905	_	33-36	_	ALL_FRIENDS
+relationship	In a relationship	>	NOT In a relationship	6.495871635894493E-4	_	29-32	_	_
+relationship	In a relationship	>	NOT In a relationship	0.0	female	_	_	_
+relationship	In a relationship	>	NOT In a relationship	0.0	_	_	_	_
+relationship	In a relationship	>	NOT In a relationship	0.0	_	_	_	ALL_FRIENDS
+relationship	In a relationship	>	NOT In a relationship	0.005526080928815292	male	25-28	_	CUSTOM
+relationship	In a relationship	>	NOT In a relationship	0.0	male	_	_	ALL_FRIENDS
+relationship	In a relationship	>	NOT In a relationship	4.124381638579438E-8	female	25-28	_	EVERYONE
+relationship	In an open relationship	>	NOT In an open relationship	0.0	_	_	_	_
+relationship	It's complicated	>	NOT It's complicated	8.077647665454445E-5	_	_	_	EVERYONE
+relationship	Married	<	NOT Married	2.612477289474457E-12	_	_	_	CUSTOM
+relationship	Married	<	NOT Married	1.927959570108024E-11	_	41-50	_	ALL_FRIENDS
+relationship	Married	<	NOT Married	0.0028283360769806977	male	_	_	CUSTOM
+relationship	Married	<	NOT Married	3.408263382562671E-5	_	33-36	_	ALL_FRIENDS
+relationship	Married	<	NOT Married	4.900887006009687E-14	_	33-36	_	_
+relationship	Married	<	NOT Married	8.77554722809516E-8	_	41-50	_	_
+relationship	Married	<	NOT Married	0.0	female	_	_	_
+relationship	Married	<	NOT Married	0.0	_	_	_	ALL_FRIENDS
+relationship	Married	<	NOT Married	1.130151129809352E-12	_	25-28	_	EVERYONE
+relationship	Married	<	NOT Married	0.0012637071753852608	male	33-36	_	ALL_FRIENDS
+relationship	Married	<	NOT Married	4.978308421805021E-4	_	_	_	FRIENDS_OF_FRIENDS
+relationship	Married	<	NOT Married	2.0898541795037657E-6	_	25-28	_	_
+relationship	Married	<	NOT Married	5.040444217498278E-7	male	33-36	_	_
+relationship	Married	<	NOT Married	0.0	male	_	_	ALL_FRIENDS
+relationship	Married	<	NOT Married	0.0018501197714422125	female	_	_	CUSTOM
+relationship	Married	>	NOT Married	2.6539098145266117E-12	_	21-24	_	_
+relationship	Single	<	NOT Single	6.4122570018063075E-9	male	25-28	_	CUSTOM
+relationship	Single	<	NOT Single	0.0	_	25-28	_	_
+relationship	Single	<	NOT Single	0.003053987381555532	female	17-20	_	FRIENDS_OF_FRIENDS
+relationship	Single	>	NOT Single	0.0013171663268581842	_	_	_	CUSTOM
+relationship	Single	>	NOT Single	2.2882520375885294E-10	female	21-24	_	_
+relationship	Single	>	NOT Single	0.0	_	21-24	_	_
+relationship	Single	>	NOT Single	8.727328181832648E-32	female	_	_	CUSTOM
+relationship	Single	>	NOT Single	2.2856409342642778E-14	_	29-32	_	_
+relationship	Single	>	NOT Single	0.005006535925077285	_	_	_	FRIENDS_OF_FRIENDS
+relationship	Single	>	NOT Single	3.0582135301737397E-4	_	17-20	_	EVERYONE
+relationship	Single	>	NOT Single	9.93186830067511E-4	_	33-36	_	_
+relationship	Single	>	NOT Single	1.823856372779702E-22	_	33-36	_	ALL_FRIENDS
+relationship	Single	>	NOT Single	7.151928612365622E-17	male	17-20	_	EVERYONE
+relationship	Single	>	NOT Single	0.0	_	_	_	ALL_FRIENDS
+relationship	Single	>	NOT Single	2.173655532423175E-6	_	21-24	_	FRIENDS_OF_FRIENDS
+relationship	Single	>	NOT Single	1.0726284399091571E-5	_	17-20	_	_
+relationship	Single	>	NOT Single	0.0	male	_	_	ALL_FRIENDS
+relationship	Widowed	>	NOT Widowed	0.0	_	_	_	_

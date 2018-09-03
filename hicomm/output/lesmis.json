@@ -1,0 +1,235 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {"name": "Jondrette"},
+                {"name": "Mme.Burgon"}
+              ],
+              "name": "comm_1_1_1"
+            },
+            {
+              "children": [
+                {"name": "Child1"},
+                {"name": "Child2"},
+                {"name": "Gavroche"}
+              ],
+              "name": "comm_1_1_2"
+            }
+          ],
+          "name": "comm_1_1"
+        },
+        {
+          "children": [
+            {"name": "Bahorel"},
+            {"name": "Bossuet"},
+            {"name": "Courfeyrac"},
+            {"name": "Enjolras"},
+            {"name": "Grantaire"},
+            {"name": "Joly"},
+            {"name": "Mme.Hucheloup"},
+            {"name": "Prouvaire"}
+          ],
+          "name": "comm_1_2"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {"name": "Mabeuf"},
+                {"name": "MotherPlutarch"}
+              ],
+              "name": "comm_1_3_1"
+            },
+            {
+              "children": [
+                {"name": "Combeferre"},
+                {"name": "Feuilly"},
+                {"name": "Marius"}
+              ],
+              "name": "comm_1_3_2"
+            }
+          ],
+          "name": "comm_1_3"
+        }
+      ],
+      "name": "comm_1"
+    },
+    {
+      "children": [
+        {"name": "Bamatabois"},
+        {"name": "Brevet"},
+        {"name": "Champmathieu"},
+        {"name": "Chenildieu"},
+        {"name": "Cochepaille"},
+        {"name": "Judge"}
+      ],
+      "name": "comm_2"
+    },
+    {
+      "children": [
+        {"name": "Champtercier"},
+        {"name": "Count"},
+        {"name": "CountessdeLo"},
+        {"name": "Cravatte"},
+        {"name": "Geborand"},
+        {"name": "Myriel"},
+        {"name": "Napoleon"},
+        {"name": "OldMan"}
+      ],
+      "name": "comm_3"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {"name": "Fantine"},
+            {"name": "Marguerite"},
+            {"name": "Perpetue"},
+            {"name": "Simplice"}
+          ],
+          "name": "comm_4_1"
+        },
+        {
+          "children": [
+            {"name": "Blacheville"},
+            {"name": "Dahlia"},
+            {"name": "Fameuil"},
+            {"name": "Favourite"},
+            {"name": "Listolier"},
+            {"name": "Tholomyes"},
+            {"name": "Zephine"}
+          ],
+          "name": "comm_4_2"
+        }
+      ],
+      "name": "comm_4"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {"name": "Boulatruelle"},
+                {"name": "Thenardier"}
+              ],
+              "name": "comm_5_1_1"
+            },
+            {
+              "children": [
+                {"name": "Anzelma"},
+                {"name": "Eponine"},
+                {"name": "Mme.Thenardier"}
+              ],
+              "name": "comm_5_1_2"
+            }
+          ],
+          "name": "comm_5_1"
+        },
+        {
+          "children": [
+            {"name": "Babet"},
+            {"name": "Brujon"},
+            {"name": "Claquesous"},
+            {"name": "Gueulemer"},
+            {"name": "Javert"},
+            {"name": "Montparnasse"}
+          ],
+          "name": "comm_5_2"
+        }
+      ],
+      "name": "comm_5"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {"name": "Cosette"},
+            {"name": "Toussaint"},
+            {"name": "Woman2"}
+          ],
+          "name": "comm_6_1"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {"name": "Mlle.Gillenormand"},
+                    {"name": "Mlle.Vaubois"}
+                  ],
+                  "name": "comm_6_2_1_1"
+                },
+                {
+                  "children": [
+                    {"name": "Mme.Pontmercy"},
+                    {"name": "Pontmercy"}
+                  ],
+                  "name": "comm_6_2_1_2"
+                }
+              ],
+              "name": "comm_6_2_1"
+            },
+            {
+              "children": [
+                {"name": "BaronessT"},
+                {"name": "Gillenormand"},
+                {"name": "Lt.Gillenormand"},
+                {"name": "Magnon"}
+              ],
+              "name": "comm_6_2_2"
+            }
+          ],
+          "name": "comm_6_2"
+        },
+        {
+          "children": [
+            {"name": "Fauchelevent"},
+            {"name": "Gribier"},
+            {"name": "MotherInnocent"}
+          ],
+          "name": "comm_6_3"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {"name": "Mlle.Baptistine"},
+                {"name": "Mme.Magloire"}
+              ],
+              "name": "comm_6_4_1"
+            },
+            {
+              "children": [
+                {"name": "Gervais"},
+                {"name": "Isabeau"},
+                {"name": "Labarre"},
+                {"name": "Mme.deR"},
+                {"name": "Scaufflaire"},
+                {"name": "Valjean"},
+                {"name": "Woman1"}
+              ],
+              "name": "comm_6_4_2"
+            }
+          ],
+          "name": "comm_6_4"
+        }
+      ],
+      "name": "comm_6"
+    },
+    {
+      "children": [
+        {"name": "A"},
+        {"name": "B"},
+        {"name": "C"}
+      ],
+      "name": "comm_7"
+    }
+  ],
+  "name": "lesmis"
+}
